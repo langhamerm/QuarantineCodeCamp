@@ -1,0 +1,8 @@
+The HTML <head> Element
+The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
+
+HTML metadata is data about the HTML document. Metadata is not displayed.
+
+Metadata typically define the document title, character set, styles, scripts, and other meta information.
+
+The following tags describe metadata: <title>, <style>, <meta>, <link>, <script>, and <base>.
